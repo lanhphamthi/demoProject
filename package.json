@@ -1,6 +1,6 @@
 {
   "name": "s8",
-  "home": "https://lanhphamthi.github.io/demoProject/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
